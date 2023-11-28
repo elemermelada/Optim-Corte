@@ -9,3 +9,4 @@ C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim
 C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.exe
 C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.xml
 C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.pdb
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim_Corte.Settings.resources

@@ -3,6 +3,8 @@ Imports System.Array
 Imports System.IO
 
 Public Class Form1
+    'settings
+    Public useDefaults As Boolean = False
 
     'genetic params
     Public maxgenerations As Integer = 600
@@ -36,15 +38,19 @@ Public Class Form1
         viejaInd = New Indiv(carac, 90, mutate, genome)
         MsgBox("Total excess: " + viejaInd.fit.ToString() + vbNewLine + "Relative excess: " + viejaInd.relative.ToString() + "%" + vbNewLine + "(Values preoptimization)")
 
-        ''run optimization thread
-        th.Start()
+        If useDefaults Then
+            ''run optimization thread
+            th.Start()
+        Else
+            Me.Enabled = False
+            Settings.Show()
+        End If
 
     End Sub
 
+
     Private Sub Button2_Click(sender As System.Object, e As System.EventArgs) Handles Button2.Click
-
         th.Abort()
-
     End Sub
 
     Public Sub LoadData()
