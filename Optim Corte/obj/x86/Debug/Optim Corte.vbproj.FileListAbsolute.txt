@@ -1,0 +1,11 @@
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\bin\Debug\Optim Corte.exe
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\bin\Debug\Optim Corte.pdb
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\bin\Debug\Optim Corte.xml
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.vbproj.AssemblyReference.cache
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim_Corte.Form1.resources
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim_Corte.Resources.resources
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.vbproj.GenerateResource.cache
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.vbproj.CoreCompileInputs.cache
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.exe
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.xml
+C:\Users\elemer\Documents\Scripts\VB\Optim Corte\Optim Corte\obj\x86\Debug\Optim Corte.pdb

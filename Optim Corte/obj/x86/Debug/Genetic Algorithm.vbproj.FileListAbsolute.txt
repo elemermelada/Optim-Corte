@@ -1,0 +1,18 @@
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\bin\Debug\Genetic Algorithm.xml
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic_Algorithm.Form1.resources
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic_Algorithm.Resources.resources
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.vbproj.GenerateResource.Cache
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.exe
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.xml
+C:\Users\elemer\AppData\Local\Temporary Projects\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.pdb
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.exe
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.xml
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.pdb
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.xml
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic_Algorithm.Form1.resources
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic_Algorithm.Resources.resources
+C:\Users\elemer\Documents\Scripts\VB\Genetic Algorithm\Genetic Algorithm\obj\x86\Debug\Genetic Algorithm.vbproj.GenerateResource.Cache
